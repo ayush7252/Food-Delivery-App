@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza's",
+    "Image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Burger's",
+    "Image": "https://image.lexica.art/full_jpg/f65bf8d0-522a-4232-9b94-9da25c4a1453"
+  },
+  {
+    "id": 3,
+    "name": "Noodles",
+    "Image": "https://static.vecteezy.com/system/resources/previews/030/675/827/large_2x/product-shots-of-asian-noodles-high-quality-4k-free-photo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sandwich",
+    "Image": "https://media.istockphoto.com/id/510482834/photo/sandwich-bread-tomato-lettuce-and-yellow-cheese.jpg?s=612x612&w=0&k=20&c=Q69t_vK73KXddedlvN4RmFcPL34mCwEqprJvbDTyOWo="
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "Image": "https://img.freepik.com/premium-photo/crispy-french-fries-bowl_960786-191.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bevrages",
+    "Image": "https://images.pexels.com/photos/800390/pexels-photo-800390.jpeg?cs=srgb&dl=pexels-george-desipris-800390.jpg&fm=jpg"
+  }
+]

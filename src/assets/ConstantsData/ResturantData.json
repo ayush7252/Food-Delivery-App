@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Name": "The Spice Junction",
+    "Image": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?cs=srgb&dl=pexels-chanwalrus-941861.jpg&fm=jpg",
+    "Location": "Babatpur, Varanasi"
+  },
+  {
+    "id": 2,
+    "Name": "Urban Tandoor",
+    "Image": "https://wallpapercat.com/w/full/f/7/9/584472-3840x2160-desktop-4k-restaurant-background-image.jpg",
+    "Location": "Babatpur, Varanasi"
+  },
+  {
+    "id": 3,
+    "Name": "The Hungry Lantern ",
+    "Image": "https://wallpapers.com/images/featured/restaurant-background-2ez77umko2vj5w02.jpg",
+    "Location": "Babatpur, Varanasi"
+  },
+  {
+    "id": 4,
+    "Name": "Cave kitchen",
+    "Image": "https://images5.alphacoders.com/650/650970.jpg",
+    "Location": "Babatpur, Varanasi"
+  },
+  {
+    "id": 5,
+    "Name": "The Secret Fork",
+    "Image": "https://wallpapersok.com/images/high/vintage-restaurant-bar-arqsfk2gj9zen6y9.jpg",
+    "Location": "Babatpur, Varanasi"
+  },
+  {
+    "id": 6,
+    "Name": "Olive & Oak",
+    "Image": "https://w0.peakpx.com/wallpaper/714/701/HD-wallpaper-restaurant-drinking-house-food-black-beautiful-painting-luxury-blue-style.jpg",
+    "Location": "Babatpur, Varanasi"
+  }
+  ]

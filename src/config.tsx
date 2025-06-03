@@ -1,0 +1,36 @@
+import { verticalScale } from "./Dimensions";
+
+export const universalPadding = verticalScale(15);
+export const borderRadius = verticalScale(20)
+export const HelloTxt = "Hello";
+export const UserName = "Ayush";
+export const Quote = "Crave it. Tap it. Get it.";
+export const ResturantTitle = "Trending Restuarant";
+export const FastMealTitle = "Meals in 30 minutes";
+export const RupeeSymbol = "₹";
+export const AddToCart = "Add to Cart";
+export const GoToCart = "Go to Cart";
+export const CartTitle = "Cart"
+export const AddressTitle = " Saved Address";
+export const CartEmptyText = "Your cart is empty.";
+export const CartCheckoutText = "Checkout";
+export const EmptyAddress = 'No addresses added yet.';
+export const AddAddressText = 'Add New Address';
+export const ProceedTxt = 'Proceed to Checkout';
+export const SummaryText = 'Order Summary';
+export const QuantityText = 'Quantity';
+export const ItemText = 'Items';
+export const TotalPriceText = 'Total Price';
+export const TotalItemPriceText = 'Total Items Price';
+export const PlatformText = 'Platform Fees';
+export const DeliveryText = 'Delivery Charges';
+export const DeliverToText = 'Deliver To';
+export const PlatformFees = 20;
+export const DeliveryCharges = 40;
+export const ConfirmationText = "Confirmation";
+export const CongratsText = "Congratulations! Your order has been placed successfully.";
+export const DeliveryAddressText = "Delivery Address";
+export const TotalAmountText = "Total Amount";
+export const PlacedOnText = "Placed On";
+export const ArrivingText = "Arriving in 30 min";
+export const OrderIDText = "OrderID";

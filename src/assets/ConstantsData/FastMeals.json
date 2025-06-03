@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "image": "https://c0.wallpaperflare.com/preview/622/696/882/beef-bread-buns-burger.jpg",
+    "rating": 2.5,
+    "price": 99,
+    "type": "non-veg",
+    "description": "Juicy beef patty topped with melted cheese, fresh veggies, and special sauce in a toasted bun."
+  },
+  {
+    "id": 2,
+    "name": "Veggie Pizza",
+    "image": "https://avatars.mds.yandex.net/get-shedevrum/12165876/1da2e9fdc1dc11eea29e2ed14596c966/orig",
+    "rating": 4.2,
+    "price": 129,
+    "type": "veg",
+    "description": "Crispy pizza base loaded with fresh vegetables, tangy tomato sauce, and gooey cheese."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Wrap",
+    "image": "https://instantpoteats.com/wp-content/uploads/2024/09/15-4.jpg",
+    "rating": 4.3,
+    "price": 89,
+    "type": "non-veg",
+    "description": "Soft tortilla wrap stuffed with grilled chicken, fresh veggies, and zesty sauce."
+  },
+  {
+    "id": 4,
+    "name": "Paneer Sandwich",
+    "image": "https://static.toiimg.com/thumb/60043279.cms?imgsize=195460&width=800&height=800",
+    "rating": 4.0,
+    "price": 79,
+    "type": "veg",
+    "description": "Grilled sandwich packed with spiced paneer, fresh vegetables, and creamy mayo."
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "image": "https://img.freepik.com/free-photo/delicious-fries-studio_23-2151846528.jpg?semt=ais_hybrid&w=740",
+    "rating": 4.4,
+    "price": 59,
+    "type": "veg",
+    "description": "Crispy golden fries served with a side of tangy ketchup."
+  },
+  {
+    "id": 6,
+    "name": "Chicken Nuggets",
+    "image": "https://media.istockphoto.com/id/618209540/photo/basket-of-chicken-nuggets-with-sweet-and-sour-sauce.jpg?s=612x612&w=0&k=20&c=nRRWwHgSMwGGNR1p1Voc6u8CJpFncVkL8rEy1ph3T-Y=",
+    "rating": 4.1,
+    "price": 109,
+    "type": "non-veg",
+    "description": "Tender chicken pieces coated in a crispy batter, served with a dipping sauce."
+  },
+  {
+    "id": 7,
+    "name": "Veg Roll",
+    "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+    "rating": 4.3,
+    "price": 69,
+    "type": "veg",
+    "description": "A soft roll filled with spiced mixed vegetables and flavorful chutneys."
+  },
+  {
+    "id": 8,
+    "name": "Grilled Chicken Sub",
+    "image": "https://img.freepik.com/free-photo/top-view-two-tasty-hot-dogs-with-tomato-sauce_23-2147684584.jpg?semt=ais_hybrid&w=740",
+    "rating": 4.6,
+    "price": 139,
+    "type": "non-veg",
+    "description": "Freshly baked sub stuffed with grilled chicken, crisp lettuce, and creamy sauces."
+  },
+  {
+    "id": 9,
+    "name": "Masala Dosa Wrap",
+    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?cs=srgb&dl=pexels-saveurssecretes-5560763.jpg&fm=jpg",
+    "rating": 4.5,
+    "price": 89,
+    "type": "veg",
+    "description": "Classic masala dosa flavors wrapped for easy eating, served with chutney."
+  },
+  {
+    "id": 10,
+    "name": "Fish Fingers",
+    "image": "https://static.vecteezy.com/system/resources/previews/002/830/769/non_2x/fried-fish-finger-sticks-or-french-fries-fish-with-sauce-free-photo.jpg",
+    "rating": 4.0,
+    "price": 119,
+    "type": "non-veg",
+    "description": "Crispy fried fish fingers served hot with a tangy tartar sauce."
+  }
+]
